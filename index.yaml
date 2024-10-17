@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-17T11:57:35.431038537-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 832d6c22b564171838356c23a5fed3bf64b738c41557696697bec714482f216d
+    name: chart-test
+    type: application
+    urls:
+    - https://github.com/Alignedchimp8/helm-test-wso2.git/chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-17T11:57:35.430596293-06:00"
